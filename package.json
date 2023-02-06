@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "5.0.1",
+    "nvm": "^0.0.4"
+  },
+  "name": "2708-node-lib-md-arquivos-iniciais",
+  "version": "1.0.0",
+  "description": "apenas testando",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
